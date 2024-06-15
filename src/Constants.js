@@ -1,1 +1,1 @@
-export const API_BASE_URL = 'https://book-finder-webapp.onrender.com/api';
+export const API_BASE_URL = 'https://book-hub-backend-swip.onrender.com/api';
